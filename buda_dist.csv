@@ -1,24 +1,24 @@
-﻿district,address
-1,  Várkerület
-2,  2nd district
-3,  Óbuda-Békásmegyer
-4,  Újpest
-5,  Belváros-Lipótváros
-6,  Terézváros
-7,  Erzsébetváros
-8,  Józsefváros
-9,  Ferencváros
-10,  Kőbánya
-11,  Újbuda
-12,  Hegyvidék
-13,  13th district
-14,  Zugló
-15,  15th district
-16,  16th district
-17,  Rákosmente
-18, Pestszentlőrinc-Pestszentimre
-19,  Kispest
-20,  Pesterzsébet
-21,  Csepel
-22,  Budafok-Tétény
-23, Soroksár
+address,district
+  Várkerület,1
+  2nd district,2
+  Óbuda-Békásmegyer,3
+  Újpest,4
+  Belváros-Lipótváros,5
+  Terézváros,6
+  Erzsébetváros,7
+  Józsefváros,8
+  Ferencváros,9
+  Kőbánya,10
+  Újbuda,11
+  Hegyvidék,12
+  13th district,13
+  Zugló,14
+  15th district,15
+  16th district,16
+  Rákosmente,17
+ Pestszentlőrinc-Pestszentimre,18
+  Kispest,19
+  Pesterzsébet,20
+  Csepel,21
+  Budafok-Tétény,22
+ Soroksár,23
